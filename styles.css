@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo-placeholder {
+    width: 150px;
+    height: 150px;
+    background-color: #555;
+    margin: 0 auto 20px auto;
+    border-radius: 50%;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.team-info, .team-history, .games {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: disc;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.game {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.game-image-placeholder {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
